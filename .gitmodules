@@ -1,0 +1,3 @@
+[submodule "stdlinux2-source"]
+	path = stdlinux2-source
+	url = https://github.com/aamine/stdlinux2-source.git
